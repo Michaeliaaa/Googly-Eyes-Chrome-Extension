@@ -14,7 +14,7 @@
     "default_popup": "/PopUp/popup.html"
   },
   "background": {
-    "scripts": ["narrate.js", "background.js, reading-line-bg.js"]
+    "scripts": ["narrate.js", "background.js", "reading-line-bg.js"]
   },
   "content_scripts":[
     {
